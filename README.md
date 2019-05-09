@@ -14,8 +14,7 @@
 - 5: mesafe 5
 - 6: mesafe 6
 
-	      0     1    2    3    4    5    6
-faceSizes = [1026, 684, 456, 304, 202, 136, 90]
+faceSizes = [0:1026, 1:684, 2:456, 3:304, 4:202, 5:136, 6:90]
 
 ##### Override Mode
 - 8:	Enable / Disable Override mode
