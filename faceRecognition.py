@@ -6,7 +6,7 @@ import sys
 class FaceRecogntion(object):
     def __init__(self):
 
-        self.fatih_image = face_recognition.load_image_file("opencv_frame_0.jpg")
+        self.fatih_image = face_recognition.load_image_file("fatih.jpg")
         self.fatih_face_encoding = face_recognition.face_encodings(self.fatih_image)[0]
 
         self.known_face_encodings = [
