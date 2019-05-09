@@ -5,6 +5,7 @@
 - l: Land
 
 ##### AI Mode
+
 - 0: mesafe 0
 - 1: mesafe 1
 - 2: mesafe 2
@@ -13,10 +14,13 @@
 - 5: mesafe 5
 - 6: mesafe 6
 
+	      0     1    2    3    4    5    6
 faceSizes = [1026, 684, 456, 304, 202, 136, 90]
 
 ##### Override Mode
 - 8:	Enable / Disable Override mode
+		Override disable: Yüz tespiti ve takip
+		Override enable: Yüz tanıma ve klavye kontrolü
 - W/S: 	Forward/Back
 - A/D: 	Left/Right (yerinde dönşler)
 - Q/E: 	Up/Down
@@ -24,3 +28,6 @@ faceSizes = [1026, 684, 456, 304, 202, 136, 90]
 - 1: 	Drone hızı 1
 - 2: 	Drone hızı 2
 - 3: 	Drone hızı 3
+
+
+Run app.py
