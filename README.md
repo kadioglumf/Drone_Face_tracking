@@ -27,8 +27,8 @@ faceSizes = [0:1026, 1:684, 2:456, 3:304, 4:202, 5:136, 6:90]
 - 3: 	Drone hızı 3
 
 ##### Not:
-Override disable: Yüz tespiti ve takip
-Override enable: Yüz tanıma ve klavye kontrolü
+- Override disable: Yüz tespiti ve takip
+- Override enable: Yüz tanıma ve klavye kontrolü
 
 ##### Run
 - python app.py
