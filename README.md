@@ -18,8 +18,6 @@ faceSizes = [0:1026, 1:684, 2:456, 3:304, 4:202, 5:136, 6:90]
 
 ##### Override Mode
 - 8:	Enable / Disable Override mode
-		(Override disable: Yüz tespiti ve takip)
-		(Override enable: Yüz tanıma ve klavye kontrolü)
 - W/S: 	Forward/Back
 - A/D: 	Left/Right (yerinde dönşler)
 - Q/E: 	Up/Down
@@ -28,5 +26,8 @@ faceSizes = [0:1026, 1:684, 2:456, 3:304, 4:202, 5:136, 6:90]
 - 2: 	Drone hızı 2
 - 3: 	Drone hızı 3
 
+Not:
+Override disable: Yüz tespiti ve takip
+Override enable: Yüz tanıma ve klavye kontrolü
 
 Run app.py
